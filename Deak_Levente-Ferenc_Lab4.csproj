@@ -1,0 +1,11 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.WindowsDesktop">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <RootNamespace>Deak_Levente_Ferenc_Lab4</RootNamespace>
+    <UseWPF>true</UseWPF>
+    <AssemblyName>Deak_Levente-Ferenc_Lab4</AssemblyName>
+  </PropertyGroup>
+
+</Project>
